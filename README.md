@@ -57,7 +57,7 @@ The notebook computes and outputs:
 * Task-specific performance metrics
 * Aggregated GLUE score
 
-## 📜 Citation
+## Citation
 
 If referencing this reproduction, please cite the original ConvBERT paper:
 
