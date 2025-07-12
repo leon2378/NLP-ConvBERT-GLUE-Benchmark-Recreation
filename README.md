@@ -70,7 +70,7 @@ If referencing this reproduction, please cite the original ConvBERT paper:
 }
 ```
 
-## 🙌 Acknowledgements
+## Acknowledgements
 
 * [Hugging Face Transformers](https://github.com/huggingface/transformers)
 * [GLUE Benchmark](https://gluebenchmark.com/)
